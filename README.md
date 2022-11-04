@@ -14,7 +14,7 @@ This tool implements some fundamental contact tasks, such as adding, deleting, d
 
 ## Tests
 
-To run tests, run the following command
+To run tests, run the following command, run with the IntelliJ IDEA makes it easier, test command needs to be modified inorder to use
 
 ```bash
 /usr/bin/env /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -cp /Users/[Username]/Library/Application\ Suppo
